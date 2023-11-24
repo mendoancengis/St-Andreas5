@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "st-andreas5"
+  title: "Lingkungan St.Andreas"
   navbar:
     right:
       - about.qmd

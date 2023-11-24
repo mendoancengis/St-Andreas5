@@ -1,5 +1,5 @@
 ---
-title: "Lingkungan St.Andreas Paroki St.Yosep Purwokerto"
+title: "Lingkungan St.Andreas Paroki St.Yosep Pwt"
 listing:
   contents: posts
   sort: "date desc"

@@ -1,0 +1,14 @@
+{
+  "hash": "af25ed2cf68a8a0747239cc83ac2bcb2",
+  "result": {
+    "markdown": "---\ntitle: \"Pertemuan Kredo 1\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-11-24\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is a post with executable code.yang di edit\n\n-   example 1\n\n-   example 2\n\n-   example 3\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

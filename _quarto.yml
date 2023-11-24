@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Lingkungan St.Andreas"
+  title: "Beranda"
   navbar:
     left:
     

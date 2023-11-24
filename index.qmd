@@ -1,11 +1,11 @@
 ---
-title: "Lingkungan St.Andreas Paroki St.Yosep Pwt"
+title: "Lingkungan St.Andreas Paroki St.Yosep Purwokerto"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
-  sort-ui: true
+  categories: false
+  sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: false

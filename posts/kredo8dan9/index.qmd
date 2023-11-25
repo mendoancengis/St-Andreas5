@@ -8,8 +8,8 @@ image: "IMG-20231011-WA0038.jpg"
 
 This is a post with executable code.yang di edit
 
--   image: "IMG-20231011-WA0038.jpg"
-
+![](IMG-20231010-WA0052.jpg)
+CopyOf
 -   example 2
 
 -   example 3

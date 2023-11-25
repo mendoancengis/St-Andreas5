@@ -6,14 +6,10 @@ categories: [kredo, pendalaman iman]
 image: "IMG-20231011-WA0038.jpg"
 ---
 
-This is a post with executable code.yang di edit
+**Pendalaman Kredo ke 8 dan 9**
 
-![](IMG-20231010-WA0052.jpg)
-CopyOf
--   example 2
 
--   example 3
 
-```{r}
-1 + 1
-```
+|                                                |                                                |                                                |
+|------------------------|------------------------|------------------------|
+| ![](/posts/kredo8dan9/IMG-20231010-WA0050.jpg) | ![](/posts/kredo8dan9/IMG-20231010-WA0051.jpg) | ![](/posts/kredo8dan9/IMG-20231010-WA0059.jpg) |

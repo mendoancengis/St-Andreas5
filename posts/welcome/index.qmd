@@ -11,4 +11,4 @@ Welcome! to my site
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of `posts`.

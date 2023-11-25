@@ -1,0 +1,19 @@
+---
+title: "Pertemuan Kredo 8 dan 9"
+author: "Ed"
+date: "2023-10-10"
+categories: [kredo, pendalaman iman]
+image: "IMG-20231011-WA0038"
+---
+
+This is a post with executable code.yang di edit
+
+-   image: "IMG-20231011-WA0038"
+
+-   example 2
+
+-   example 3
+
+```{r}
+1 + 1
+```

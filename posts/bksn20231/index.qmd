@@ -2,7 +2,7 @@
 title: "Pertemuan BKSN ke 1"
 author: "Ed"
 date: "2023-09-02"
-categories: [BKSN,Pendalaman Iman]
+categories: [bksn,pendalaman iman]
 image: "/posts/bksn20231/IMG-20230907-WA0063(1).jpg"
 ---
 

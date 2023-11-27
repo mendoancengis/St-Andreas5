@@ -2,7 +2,7 @@
 title: "Pertemuan Kredo ke 7"
 author: "Ed"
 date: "2023-07-24"
-categories: [kredo, pendalaman iman]
+categories: [kredo,pendalaman iman]
 image: "IMG-20230724-WA0070(1).jpg"
 ---
 

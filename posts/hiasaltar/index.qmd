@@ -10,4 +10,4 @@ image: "/posts/hiasaltar/IMG-20230902-WA0051.jpg"
 |--------------------------------------|------------------------------------|
 | ![](/posts/hiasaltar/IMG-20230902-WA0044.jpg) | ![](/posts/hiasaltar/IMG-20230902-WA0046.jpg) |
 | ![](/posts/hiasaltar/IMG-20230902-WA0057.jpg)  | ![](/posts/hiasaltar/IMG-20230902-WA0045.jpg) |                                                                     
-tugas altar lingk.St.Andreas
+tugas hias altar lingk.St.Andreas

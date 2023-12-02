@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Sekilas"
 image: logoAndreas-1.png
 about:
   template: jolla

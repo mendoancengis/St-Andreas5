@@ -13,7 +13,11 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
+id: ppc
 ---
 
-About this blog
+:::{#ppc}
+![Peta lingkungan St.Andreas](map.jpeg)
+:::
+
+Lingkungan St.Andreas Purwokerto terletak di selatan lingkungan St.Thomas(),

@@ -3,9 +3,9 @@ title: "Pertemuan Kredo ke 8 dan 9"
 author: "Ed"
 date: "2023-10-10"
 categories: [kredo,pendalaman iman]
-image: "IMG-20231011-WA0038.jpg"
+image: "/posts/kredo8dan9/IMG-20231011-WA0038.jpg"
 ---
 
-|                                                |                                                |                               |                 
-|----------|----------|----------|
+|                                                |                                                |                                                |
+|------------------------|------------------------|------------------------|
 | ![](/posts/kredo8dan9/IMG-20231010-WA0063.jpg) | ![](/posts/kredo8dan9/IMG-20231010-WA0051.jpg) | ![](/posts/kredo8dan9/IMG-20231010-WA0059.jpg) |

@@ -1,8 +1,8 @@
 ---
-title: "Misa Pelindung Lingkungan St.Andreas"
+title: "Pesta Pelindung Lingkungan St.Andreas"
 author: "Ed"
 date: "2023-11-30"
-categories: [misa pelindung,misa]
+categories: [pesta pelindung,misa]
 image: "/posts/misapelindung/IMG-20231201-WA0042.jpg"
 ---
 

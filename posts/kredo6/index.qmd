@@ -2,7 +2,7 @@
 title: "Pertemuan Kredo ke 6"
 author: ""
 date: "2023-07-18"
-categories: [kredo,pendalaman iman]
+categories: [kredo,paroki mengajar]
 image: "/posts/kredo6/IMG-20230718-WA0065(2).jpg "
 ---
 

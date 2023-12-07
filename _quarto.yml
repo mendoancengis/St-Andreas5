@@ -5,10 +5,11 @@ website:
   title: "Beranda"
   navbar:
     left:
-   
       - about.qmd
-     
-format:
+      - href: https://instagram.com/lingkungan_st.andreas_pwt?igshid=MzMyNGUyNmU2YQ==
+        icon: Instagram
+        text: Instagram
+format:    
   html:
     theme: superhero
     css: styles.css

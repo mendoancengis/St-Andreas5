@@ -6,9 +6,6 @@ website:
   title: "Beranda"
   navbar:
     left:
-      - href: https://standreas.my.id
-        icon: home
-        text: Home
       - about.qmd
       - href: https://instagram.com/lingkungan_st.andreas_pwt?igshid=MzMyNGUyNmU2YQ==
         icon: instagram

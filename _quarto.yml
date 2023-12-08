@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 body-header: | 
-  This page brought to you by <https://example.com>
+  
 margin-header: |
   ![](/logoAndreas-1.png)
 website:

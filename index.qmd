@@ -1,6 +1,5 @@
 ---
 title: "Lingkungan St.Andreas Paroki St.Yosep Purwokerto"
-logo: "logoAndreas-1.png"
 listing:
   contents: posts
   sort: "date desc"

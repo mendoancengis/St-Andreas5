@@ -1,10 +1,7 @@
 project:
   type: website
   output-dir: docs
-body-header: | 
-  This page brought to you by <https://standreas.my.id>
-margin-header: |
-  ![](/logoAndreas-1.png)
+
 website:
   title: "Beranda"
   navbar:

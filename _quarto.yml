@@ -7,7 +7,6 @@ margin-header: |
   ![](/logoAndreas-1.png)
 website:
   title: "Beranda"
-  favicon: logoAndreas-1.png
   navbar:
     left:
       - href: https://standreas.my.id

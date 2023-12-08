@@ -4,7 +4,7 @@ project:
 body-header: | 
   This page brought to you by <https://example.com>
 margin-header: |
-  ![Logo image](/logoAndreas-1.png)
+  ![](/logoAndreas-1.png)
 website:
   title: "Beranda"
 

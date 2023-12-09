@@ -11,7 +11,7 @@ image: "/posts/kredo1/IMG-20230609-WA0085(1).jpg"
 |                                               |                                               |
 |                                               | ![](/posts/kredo1/IMG-20230609-WA0085(1).jpg) |
 +-----------------------------------------------+-----------------------------------------------+
-Pertemuan Kredo pertama ini mengawali seluruh rangkaian Program Paroki Mengajar.Ada 9 kali pertemuan selama tahun 2023, dan dilanjutkan sampai tahun 2025.
+Pertemuan Kredo pertama ini mengawali seluruh rangkaian Program Paroki Mengajar.Ada 9 kali pertemuan selama tahun 2023.
 
 **Tujuan**
 
@@ -29,7 +29,7 @@ Materi pembelajaran diambil dari bahan pendalaman Paroki Mengajar dan Kopendium 
 
 **Syahadat Nicea Konstantinopel** 
 
-Aku percaya akan satu Allah,
+`Aku percaya akan satu Allah,`
 Bapa yang mahakuasa,
 Pencipta langit dan bumi,
 dan segala sesuatu yang kelihatan

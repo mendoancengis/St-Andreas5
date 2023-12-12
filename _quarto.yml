@@ -12,7 +12,7 @@ website:
         text: Instagram
 format:    
   html:
-    theme: litera
+    theme: amelia
     css: styles.css
 
 editor: visual

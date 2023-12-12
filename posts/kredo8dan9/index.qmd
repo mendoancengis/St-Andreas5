@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan Kredo ke 8 dan 9"
 author: ""
-date: "2023-10-10"
+date: "2023-12-11"
 categories: [kredo,paroki mengajar]
 image: "/posts/kredo8dan9/IMG-20231011-WA0038.jpg"
 ---

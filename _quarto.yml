@@ -12,7 +12,7 @@ website:
         text: Instagram
 format:    
   html:
-    theme: superhero
+    theme: darkly
     css: styles.css
 
 editor: visual

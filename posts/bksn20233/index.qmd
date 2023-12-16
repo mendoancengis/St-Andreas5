@@ -1,7 +1,7 @@
 ---
 title: "Pertemuan BKSN ke 3"
 author: "Ed"
-date: "2023-09-15"
+date: "2023-09-19"
 categories: [bksn,pendalaman iman]
 image: "/posts/bksn20233/IMG-20230919-WA0050.jpg"
 ---

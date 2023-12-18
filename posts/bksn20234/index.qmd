@@ -9,9 +9,16 @@ editor:
     wrap: 72
 ---
 
-|                                               |
-|-----------------------------------------------|
-| ![](/posts/bksn20234/IMG-20230926-WA0063.jpg) |
++------------------------+---------------------+-------------------------+
+| !                      | ![](/po             | ![](/posts/b            |
+| [](/posts/bksn20234/IM | sts/bksn20234/IMG-2 | ksn20234/IMG-20230926-W |
+| G-20230926-WA0063.jpg) | 0230926-WA0067.jpg) | A0065.jpg){width="832"} |
++------------------------+---------------------+-------------------------+
+| !                      | ![                  |                         |
+| [](/posts/bksn20234/IM | ](/posts/bksn20234/ |                         |
+| G-20230926-WA0061.jpg) | IMG-20230926-WA0080 |                         |
+|                        | .jpg){width="1600"} |                         |
++------------------------+---------------------+-------------------------+
 
 Saat ini kita hidup di dunia yang sedang mengalami berbagai krisis.
 Krisis lingkungan, kelaparan, kekerasan, perang, wabah, dan perpecahan

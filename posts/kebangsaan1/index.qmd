@@ -1,0 +1,9 @@
+---
+title: "Pertemuan 1: Rohani Kebangsaan dan doa Rosario"
+author: ""
+date: "2023-08-18"
+categories: [bksn,pendalaman iman]
+image: "/posts/kebangsaan1/rohanikebangsaan.png"
+---
+
+ini

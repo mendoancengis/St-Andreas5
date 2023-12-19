@@ -26,15 +26,20 @@ TIMUR : Daerah Sarwoendah dan Sarwodadi ke utara sepanjang sisi barat jalan Jend
 UTARA: Dari Pertigaan Cherry ke barat sepanjang sisi selatan Jalan Pramuka sampai perempatan DI.Panjaitan-Pramuka (Lingkungan Thomas),
 
 
-# Buat data
-data <- data.frame(kategori = c("Kategori 1", "Kategori 2", "Kategori 3"), nilai = c(10, 20, 30))
+# Buat data frame contoh
+data <- data.frame(
+  Kategori = c("A", "B", "C", "D"),
+  Nilai = c(30, 20, 25, 15)
+)
 
-# Buat diagram lingkaran
-ggplot(data, aes(x = "", y = nilai, fill = kategori)) +
-  geom_pie(alpha = 0.7) +
-  theme_minimal()
+# Buat plot diagram lingkaran
+plot <- ggplot(data, aes(x = "", y = Nilai, fill = Kategori)) +
+  geom_bar(stat = "identity", width = 1, color = "white") +
+  coord_polar("y", start = 0) +
+  labs(title = "Diagram Lingkaran", fill = "Kategori")
 
-# Masukkan grafik ke dalam index.qmd
-embed_qplot(ggplot(data, aes(x = "", y = nilai, fill = kategori)) +
-  geom_pie(alpha = 0.7) +
-  theme_minimal())
+# Simpan plot ke dalam file gambar (misalnya PNG)
+ggsave("diagram_lingkaran.png", plot, width = 5, height = 5, units = "in")
+
+# Sisipkan file gambar ke dalam dokumen QMD
+# [insert-image]('path/ke/diagram_lingkaran.png')

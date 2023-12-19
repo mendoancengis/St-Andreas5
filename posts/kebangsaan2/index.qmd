@@ -9,9 +9,9 @@ editor:
     wrap: sentence
 ---
 
-|                                                    |                                                 |
+|                                                    |                                                              |
 |---------------------------------|---------------------------------------|
-| ![](/posts/kebangsaan2/IMG-20230825-WA0036(1).jpg) | ![](/posts/kebangsaan2/IMG-20230826-WA0017.jpg) |
+| ![](/posts/kebangsaan2/IMG-20230825-WA0036(1).jpg) | ![](/posts/kebangsaan2/EDrop_1702907153266.jpg){width="302"} |
 
 Sesuai dengan Arah Haluan Keuskupan Purwokerto 2022-2035, Gereja.
 Keuskupan Purwokerto menetapkan bulan Agustus sebagai Bulan Kebangsaan.

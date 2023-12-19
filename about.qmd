@@ -24,22 +24,3 @@ SELATAN: Dari perempatan DI.Panjaitan-Gerilya ke timur sepanjang sisi utara Jala
 TIMUR : Daerah Sarwoendah dan Sarwodadi ke utara sepanjang sisi barat jalan Jend.Soedirman Timur sampai pertigaan Cherry (Lingkungan Petrus)
 
 UTARA: Dari Pertigaan Cherry ke barat sepanjang sisi selatan Jalan Pramuka sampai perempatan DI.Panjaitan-Pramuka (Lingkungan Thomas),
-
-
-# Buat data frame contoh
-data <- data.frame(
-  Kategori = c("A", "B", "C", "D"),
-  Nilai = c(30, 20, 25, 15)
-)
-
-# Buat plot diagram lingkaran
-plot <- ggplot(data, aes(x = "", y = Nilai, fill = Kategori)) +
-  geom_bar(stat = "identity", width = 1, color = "white") +
-  coord_polar("y", start = 0) +
-  labs(title = "Diagram Lingkaran", fill = "Kategori")
-
-# Simpan plot ke dalam file gambar (misalnya PNG)
-ggsave("diagram_lingkaran.png", plot, width = 5, height = 5, units = "in")
-
-# Sisipkan file gambar ke dalam dokumen QMD
-# [insert-image]('path/ke/diagram_lingkaran.png')

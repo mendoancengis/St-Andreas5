@@ -1,8 +1,8 @@
 ---
-title: "Tatalaksana misa 26 Agustus 2023"
+title: "Tatalaksana misa"
 author: ""
 date: "2023-08-26"
-categories: [tata laksana,tugas misa]
+categories: [tata laksana,tugas gereja]
 image: "/posts/tatalaksana260823/IMG-20230826-WA0074.jpg"
 ---
 

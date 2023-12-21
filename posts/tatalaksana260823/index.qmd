@@ -6,6 +6,6 @@ categories: [tata laksana,tugas gereja]
 image: "/posts/tatalaksana260823/IMG-20230826-WA0074.jpg"
 ---
 
-\|![](/posts/tatalaksana260823/IMG-20230826-WA0074.jpg) \|
+![](/posts/tatalaksana260823/IMG-20230826-WA0074.jpg)
 
 ------------------------------------------------------------------------

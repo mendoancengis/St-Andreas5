@@ -2,11 +2,11 @@
 title: "Pendalaman Iman APP ke 1"
 author: ""
 date: "2023-02-28"
-categories: [APP 2023,pendalaman iman]
+categories: [app 2023,pendalaman iman]
 image: "/posts/app20231/IMG-20230228-WA0060.jpg"
 ---
 
 |                                              |                                              |
-|----------------------------------------------|----------------------------------------------|
+|------------------------------------|------------------------------------|
 | ![](/posts/app20231/IMG-20230228-WA0028.jpg) | ![](/posts/app20231/IMG-20230228-WA0029.jpg) |
 | ![](/posts/app20231/IMG-20230228-WA0030.jpg) | ![](/posts/app20231/IMG-20230228-WA0060.jpg) |

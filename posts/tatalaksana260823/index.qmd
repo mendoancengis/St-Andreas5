@@ -1,5 +1,5 @@
 ---
-title: "Tatalaksana misa"
+title: "Tugas Tatalaksana"
 author: ""
 date: "2023-08-26"
 categories: [tata laksana,tugas gereja]

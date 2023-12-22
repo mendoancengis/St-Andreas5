@@ -1,5 +1,5 @@
 ---
-title: "Misa Arwah mengenang 3 tahun berpulangnya Bapak Joseph Wang Suwandi"
+title: "Misa Arwah mengenang 3 tahun berpulangnya Bapak Joseph Wang Suwandi Widjaya"
 author: ""
 date: "2023-11-06"
 categories: [misa arwah,misa]
@@ -7,5 +7,5 @@ image: "/posts/misaarwahjoseph/IMG-20231106-WA0044.jpg"
 ---
 
 |                                                     |                                                        |                                                        |
-|-----------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+|-----------------------|------------------------|------------------------|
 | ![](/posts/misaarwahjoseph/IMG-20231106-WA0042.jpg) | ![](/posts/misaarwahjoseph/IMG-20231106-WA0044(1).jpg) | ![](/posts/misaarwahjoseph/IMG-20231106-WA0045(1).jpg) |

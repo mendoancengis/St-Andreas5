@@ -1,5 +1,5 @@
 ---
-title: "Misa Lingkungan St.Andreas"
+title: "Misa Lingkungan"
 author: ""
 date: "2023-02-27"
 categories: [misa lingkungan,misa]

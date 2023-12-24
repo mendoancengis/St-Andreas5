@@ -1,12 +1,9 @@
 ---
 title: "Pertemuan BKSN ke 2: Kasih Allah Menggerakkan Pertobatan"
-author: "Ed"
+author: ""
 date: "2023-09-15"
 categories: [bksn,pendalaman iman]
 image: "/posts/bksn20232/IMG-20230915-WA0053.jpg"
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
 |                                                  |                                                  |                                                  |
@@ -132,7 +129,6 @@ pertanyaan :
     dengan rendah hati berani mengakui kesalahan tersebut dan meminta
     maaf?
 
-*Materi tulisan diatas diambil dari buku pendalaman BKSN 2023 yang
-disusun oleh tim Lembaga Biblika Indonesia.*
+*Materi tulisan dari buku pendalaman BKSN 2023 yang disusun oleh tim Lembaga Biblika Indonesia.*
 
 ------------------------------------------------------------------------

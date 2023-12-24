@@ -1,6 +1,6 @@
 ---
 title: "Misa Lingkungan"
-author: "Ed"
+author: ""
 date: "2023-06-26"
 categories: [misa lingkungan,misa]
 image: "/posts/misajun23/IMG-20230626-WA0059.jpg"

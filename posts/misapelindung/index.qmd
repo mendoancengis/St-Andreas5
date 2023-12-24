@@ -1,6 +1,6 @@
 ---
 title: "Pesta Pelindung Lingkungan St.Andreas"
-author: "Ed"
+author: ""
 date: "2023-11-30"
 categories: [pesta pelindung,misa]
 image: "/posts/misapelindung/IMG-20231201-WA0042.jpg"

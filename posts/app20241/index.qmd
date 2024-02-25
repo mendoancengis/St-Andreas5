@@ -1,0 +1,12 @@
+---
+title: "Pendalaman Iman APP ke 1"
+author: ""
+date: "2024-02-20"
+categories: [app 2024,pendalaman iman]
+image: "/posts/app20241/Collage_2024-02-21_06_24_18.jpg"
+---
+
+
+| Col1                                 |
+|--------------------------------------|
+| ![](Collage_2024-02-21_06_24_18.jpg) |

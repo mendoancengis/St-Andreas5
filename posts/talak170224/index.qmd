@@ -9,3 +9,5 @@ image: "/posts/talak170224/IMG-20240217-WA0050.jpg"
 |                              |
 |------------------------------|
 | ![](IMG-20240217-WA0050.jpg) |
+
+tata laksana lingk.st.andreas 17 feb 2024
